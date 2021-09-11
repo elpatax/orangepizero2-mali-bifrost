@@ -19,4 +19,3 @@ cmake ../mixbench-opencl -DOpenCL_LIBRARY=/usr/lib/aarch64-linux-gnu/libOpenCL.s
 make
 ./mixbench-ocl-alt
 clinfo
-
