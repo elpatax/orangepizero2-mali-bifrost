@@ -1,3 +1,5 @@
+#!/bin/sh
+
 apt-get update
 apt-get upgrade
 dpkg --install linux-headers-legacy-sun50iw9_2.1.0_arm64.deb
